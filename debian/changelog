@@ -1,3 +1,19 @@
+pi-topos-icon-theme (2.1.0-2) bullseye; urgency=medium
+
+  * [pre-commit.ci] pre-commit autoupdate (#13)
+  * Updated master workflow files
+  * Updated master workflow files
+  * [pre-commit.ci] pre-commit autoupdate (#15)
+  * [pre-commit.ci] pre-commit autoupdate (#16)
+  * Build for arm64
+  * Point to fork Debian package building image
+  * Point to forked Debian package building action
+  * Revert "Point to forked Debian package building action"
+  * Point to forked Debian package building action
+  * Point to forked Debian package building action arm64 branch
+
+ -- pi-top <deb-maintainers@pi-top.com>  Tue, 08 Nov 2022 13:01:46 +0000
+
 pi-topos-icon-theme (2.1.0-1) bullseye; urgency=medium
 
   * Include scalable icons in theme (#12)
